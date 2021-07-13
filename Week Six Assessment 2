@@ -1,0 +1,4 @@
+fun love (M: Int, F: Int) {
+If (M %% 2==0 && F%2==1)
+return true
+return false
